@@ -12,8 +12,8 @@ Anstatt politischer Parteien kandidieren Tiere mit ihren Vorstellungen und Progr
 
 ## Was braucht es um mitzumachen?
 
-* Ausgedruckte A4 **Stimmzettel**: [Farbe](Stimmzettel.pdf) oder [Graustufen](Stimmzettel_SW.pdf)
-* Ausgedruckte A4 **Flyer** mit den Wahlprogrammen: [Farbe](Flyer.pdf) oder [Graustufen](Flyer_SW.pdf)
+* Ausgedruckte A4 **Stimmzettel**: [Farbe](Stimmzettel.pdf)
+* Ausgedruckte A4 **Flyer** mit den Wahlprogrammen: [Farbe](Flyer.pdf)
 * Eine **Wahlurne**: Z.b. Schuhkarton oder alte Holzkiste, mit Schlitz im Deckel. 
     * Möglichst keine Produktmarken auf dem Karton zu erkennen
     * Optional: Dekoration [`Schild.pdf`](Schild.pdf)
@@ -26,8 +26,6 @@ Optional:
 
 * Kekse, Bonbons o.Ä. zur "Belohnung" (nur auf Zustimmung der Eltern)
 * Telefonbuch, Papierstapel o.Ä. auf dem Stuhl, damit die bequem Kinder sitzen
-
-Die Ergebnisse sollen datensparsam verkündet werden (**bitte keine Kontaktdaten sammeln!**). Vorschlag: Bsp. in der Woche nach der Wahl am Lokal aushängen (mit den Ansprechpartnern vor Ort abstimmen), s. [`Ergebniszettel.pdf`](Ergebniszettel.pdf).
 
 ## Weitere Fragen und Antworten
 
