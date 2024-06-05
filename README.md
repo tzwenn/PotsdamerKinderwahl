@@ -29,7 +29,7 @@ Optional:
 
 Die Ergebnisse sollen datensparsam verkündet werden (**bitte keine Kontaktdaten sammeln!**). Vorschlag: Bsp. in der Woche nach der Wahl am Lokal aushängen (mit den Ansprechpartnern vor Ort abstimmen), s. [`Ergebniszettel.pdf`](Ergebniszettel.pdf).
 
-## Fragen und Antworten
+## Weitere Fragen und Antworten
 
 #### Frage: Hat die Stadtverwaltung der Landeshauptstadt Potsdam etwas damit zu tun?
 
@@ -48,7 +48,7 @@ Antwort: Das war die großartige Lea Gerneth [(Instagram)](https://www.instagram
 
 #### Frage: Kann ich das Projekt in meiner Stadt wiederholen?
 
-Antwort: Sehr gern. Die Quelldateien folgen bald. Die Texte können entsprechend angepasst und ausgetauscht werden. Die Künstlerin bittet für die Zeichnungen die [Creative Commons BY-NC-ND 4.0 Lizenz](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de) zu beachten.
+Antwort: Sehr gern. Die Quelldateien finden sich im Ordner [`vorlagen`](vorlagen/). Die Texte können entsprechend angepasst und ausgetauscht werden. Die Künstlerin bittet für die Zeichnungen die [Creative Commons BY-NC-ND 4.0 Lizenz](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de) zu beachten.
 
 
 #### Weitere Fragen?
