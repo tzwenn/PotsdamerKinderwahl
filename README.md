@@ -40,9 +40,16 @@ Antwort: Nein, die Aktion wird komplett von ehremamtlichen Wahlvorständen (vulg
 
 Antwort: Leider nein. Wir erhalten keine Förderung für dieses Projekt. Wie auch oft Kekse und Blumen in Wahllokalen, sind das alles ehrenamtliche Beiträge der Wahlvorstände.
 
+
+#### Frage: Wer hat diese unglaublich süßen Tiere gemalt?
+
+Antwort: Das war die großartige Lea Gerneth [(Instagram)](https://www.instagram.com/lea_und_schaf/).
+
+
 #### Frage: Kann ich das Projekt in meiner Stadt wiederholen?
 
 Antwort: Sehr gern. Die Quelldateien folgen bald. Die Texte können entsprechend angepasst und ausgetauscht werden. Die Künstlerin bittet für die Zeichnungen die [Creative Commons BY-NC-ND 4.0 Lizenz](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de) zu beachten.
+
 
 #### Weitere Fragen?
 
