@@ -12,8 +12,8 @@ Anstatt politischer Parteien kandidieren Tiere mit ihren Vorstellungen und Progr
 
 ## Was braucht es um mitzumachen?
 
-* Ausgedruckte A4 **Stimmzettel**: [Farbe](Stimmzettel.pdf) oder [SW](Stimmzettel_SW.pdf)
-* Ausgedruckte A4 **Flyer** mit den Wahlprogrammen: [Farbe](Flyer.pdf) oder [BW](Flyer_SW.pdf)
+* Ausgedruckte A4 **Stimmzettel**: [Farbe](Stimmzettel.pdf) oder [Graustufen](Stimmzettel_SW.pdf)
+* Ausgedruckte A4 **Flyer** mit den Wahlprogrammen: [Farbe](Flyer.pdf) oder [Graustufen](Flyer_SW.pdf)
 * Eine **Wahlurne**: Z.b. Schuhkarton oder alte Holzkiste, mit Schlitz im Deckel. 
     * Möglichst keine Produktmarken auf dem Karton zu erkennen
     * Optional: Dekoration [`Schild.pdf`](Schild.pdf)
