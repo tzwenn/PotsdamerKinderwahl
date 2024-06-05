@@ -6,7 +6,7 @@ Begleitend zur Kommunal- und Europawahl 2024 Kindern die Möglichkeiten der Mitb
 
 ## Worum geht es?
 
-Damit Kinder besser verstehen können worum es bei Wahlen geht **und damit die Eltern sie dafür nicht mit in die Wahlkabine nehmen müssen** wollen wir eine ergänzende Kinderwahl in teilnehmenden Wahllokalen anbieten.
+Damit Kinder besser verstehen können worum es bei Wahlen geht **und damit die Eltern sie dafür nicht mit in die Wahlkabine nehmen müssen**, wollen wir eine ergänzende Kinderwahl in teilnehmenden Wahllokalen anbieten.
 
 Anstatt politischer Parteien kandidieren Tiere mit ihren Vorstellungen und Programmen zu einer schönen Stadt. Die Vorstellungen dürfen sich auch widersprechen. So können die Kinder lernen, dass die Tiere an gemeinsamen Lösungen arbeiten müssen.
 
