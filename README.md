@@ -1,8 +1,8 @@
 # Potsdamer Kinderwahl
 
-Begleitend zur Kommunal- und Europawahl 2024 Kindern die Möglichkeiten der Mitbestimmung zeigen.
+Begleitend zur Landtagswahl in Brandenburg Kindern die Möglichkeiten der Mitbestimmung zeigen.
 
-![Titelbild zur Kinderwahl in Potsdam, mit fünf Tieren](banner.png)
+![Titelbild zur Kinderwahl in Potsdam mit fünf Tieren](banner.png)
 
 ## Worum geht es?
 
@@ -24,10 +24,18 @@ Anstatt politischer Parteien kandidieren Tiere mit ihren Vorstellungen und Progr
 
 Optional:
 
-* Kekse, Bonbons o.Ä. zur "Belohnung" (nur auf Zustimmung der Eltern)
-* Telefonbuch, Papierstapel o.Ä. auf dem Stuhl, damit die bequem Kinder sitzen
+* Kekse, Bonbons o.Ä. zur "Belohnung" (nur mit Zustimmung der Eltern)
+* Telefonbuch, Papierstapel o.Ä. auf dem Stuhl, damit die Kinder bequem sitzen können
 
 Die Ergebnisse sollen datensparsam verkündet werden (**bitte keine Kontaktdaten sammeln!**). Vorschlag: Bsp. in der Woche nach der Wahl am Lokal aushängen (mit den Ansprechpartnern vor Ort abstimmen), s. [`Ergebniszettel.pdf`](Ergebniszettel.pdf).
+
+Zur Landtagswahl 2024 planen wir die Ergebisse auf [kinderwahl.de](https://kinderwahl.de) zu veröffentlichen
+
+## Eindrücke von der Europawahl 2024
+
+![Foto der Urne und Kabine begleitend Europawahl 2024 in Potsdam](kabine_europawahl.jpg)
+
+Abgebildet sind: Ein Schuhkarton als Urne, ein paar Stimmzettel und ein aufgefalteter Pappkarton als Kabine. Wirkt bewusst improvisiert, aber wurde sehr positiv aufgenommen.
 
 ## Weitere Fragen und Antworten
 
@@ -49,7 +57,6 @@ Antwort: Das war die großartige Lea Gerneth [(Instagram)](https://www.instagram
 #### Frage: Kann ich das Projekt in meiner Stadt wiederholen?
 
 Antwort: Sehr gern. Die Quelldateien finden sich im Ordner [`vorlagen`](vorlagen/). Die Texte können entsprechend angepasst und ausgetauscht werden. Die Künstlerin bittet für die Zeichnungen die [Creative Commons BY-NC-ND 4.0 Lizenz](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de) zu beachten.
-
 
 #### Weitere Fragen?
 
