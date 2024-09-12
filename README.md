@@ -12,30 +12,47 @@ Anstatt politischer Parteien kandidieren Tiere mit ihren Vorstellungen und Progr
 
 ## Was braucht es um mitzumachen?
 
+Sie brauchen:
+
 * Ausgedruckte A4 **Stimmzettel**: [Farbe](Stimmzettel.pdf) oder [Graustufen](Stimmzettel_SW.pdf)
 * Ausgedruckte A4 **Flyer** mit den Wahlprogrammen: [Farbe](Flyer.pdf) oder [Graustufen](Flyer_SW.pdf)
-* Eine **Wahlurne**: Z.b. Schuhkarton oder alte Holzkiste, mit Schlitz im Deckel. 
+* Eine **Wahlurne**: Z.B. Schuhkarton oder alte Holzkiste, mit Schlitz im Deckel. 
     * Möglichst keine Produktmarken auf dem Karton zu erkennen
     * Optional: Dekoration [`Schild.pdf`](Schild.pdf)
 * Eine **extra Wahlkabine**, möglichst räumlich getrennt von den anderen Kabinen
-    * Sie sollte klar mit **Kinderwahl** markiert sein, z.B. [`Schild.pdf`](Schild.pdf) kann aufliegen.
-    * Es reicht ein aufgeschnittener großer Pappkarton
-    * In manchen Wahllokalen werden Zusatzkabinen geliefert. Wenn es die Kapazitäten zulassen, können die verwendet werden.
+    * Sie sollte klar mit **Kinderwahl** markiert sein, z.B. [`Schild.pdf`](Schild.pdf) kann angeklebt werden.
+    * Es reicht ein aufgeschnittener großer Pappkarton (s. Bild unten)
+    * In manchen Wahllokalen werden Zusatzkabinen geliefert. Wenn es die Kapazitäten zulassen, können die verwendet werden. Achten Sie auf räumliche Trennung
 
 Optional:
 
 * Kekse, Bonbons o.Ä. zur "Belohnung" (nur mit Zustimmung der Eltern)
 * Telefonbuch, Papierstapel o.Ä. auf dem Stuhl, damit die Kinder bequem sitzen können
 
-Die Ergebnisse sollen datensparsam verkündet werden (**bitte keine Kontaktdaten sammeln!**). Vorschlag: Bsp. in der Woche nach der Wahl am Lokal aushängen (mit den Ansprechpartnern vor Ort abstimmen), s. [`Ergebniszettel.pdf`](Ergebniszettel.pdf).
+Wenn Sie wollen, schreiben Sie gern Ihre Wahlbezirksnummer an `kinderwahl <ätt> svenkoehler <punkt> de`. Zur Wahl werde ich eine Übersicht der teilnehmen Wahllokale auf [kinderwahl.de](https://kinderwahl.de) einrichten.
 
-Zur Landtagswahl 2024 planen wir die Ergebisse auf [kinderwahl.de](https://kinderwahl.de) zu veröffentlichen
+Die Ergebnisse sollen datensparsam verkündet werden (**bitte keine Kontaktdaten sammeln!**). Eine Ergebniswebseite befindet sich im Aufbau unter [kinderwahl.de](https://kinderwahl.de). Schreiben Sie Ihr Ergebnis und den Wahlbezirk bitte an obere E-Mail.
+Sie können in Absprache mit den Verantwortlichen (Hausmeister o.Ä.) im Wahllokal auch unseren [`Ergebniszettel.pdf`](Ergebniszettel.pdf) aufhängen.
+
 
 ## Eindrücke von der Europawahl 2024
 
 ![Foto der Urne und Kabine begleitend Europawahl 2024 in Potsdam](kabine_europawahl.jpg)
 
-Abgebildet sind: Ein Schuhkarton als Urne, ein paar Stimmzettel und ein aufgefalteter Pappkarton als Kabine. Wirkt bewusst improvisiert, aber wurde sehr positiv aufgenommen.
+*Abgebildet sind: Ein Schuhkarton als Urne, ein paar Stimmzettel und ein aufgefalteter Pappkarton als Kabine. Der Aufbau wirkt bewusst improvisiert um nicht mit der offiziellen Wahl verwechselt zu werden.*
+
+Die Kinder bekamen zuerst einen [Flyer](Flyer.pdf) mit den *Wahlprogrammen* (während dieser Zeit konnte meist ein Elternteil schon wählen). Anschließend wurde die Kabine auf einen Tisch im Flur gestellt um die Wichtigkeit des Wahlgeheimis zu erklären.
+
+Nach Stimmabgabe und Einwurf in die Urne, durften die Kinde aus einer Bonbonschüssel wählen.
+
+Aus einer E-Mail eines Elternteils:
+
+> Um unsere Kinder [unter 5 und unter 10 Jahre] schon früh mit der Bedeutung und den Prozessen rund ums "Wählengehen" zu betrauen, nehmen wir sie immer mit ins Wahllokal.
+>
+> Bei der Wahl am Wochenende waren sie erstaunt und haben sich sehr gefreut, dass es ein Kinderwahlangebot gab und verschiedene Kandidaten (Finn Fuchs, Olli Otter, Miri Maus,...) von einem der Wahlhelfer vorgestellt wurden. Stolz haben sie dann in der Kinderwahlkabine abgestimmt. Diese tolle Idee hat dazu geführt, dass uns unsere Große seehr [sic!] viele Fragen rund ums Wählen gestellt hat.
+> 
+> Vielen Dank für Ihren Einsatz um die Wahl.
+
 
 ## Weitere Fragen und Antworten
 
