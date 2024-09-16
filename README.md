@@ -4,6 +4,8 @@ Begleitend zur Landtagswahl in Brandenburg Kindern die Möglichkeiten der Mitbes
 
 ![Titelbild zur Kinderwahl in Potsdam mit fünf Tieren](banner.png)
 
+Karte der Wahllokale auf [kinderwahl.de](https://kinderwahl.de).
+
 ## Worum geht es?
 
 Damit Kinder besser verstehen können worum es bei Wahlen geht **und damit die Eltern sie dafür nicht mit in die Wahlkabine nehmen müssen**, wollen wir eine ergänzende Kinderwahl in teilnehmenden Wahllokalen anbieten.
