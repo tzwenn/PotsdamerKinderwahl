@@ -31,9 +31,11 @@ Optional:
 * Kekse, Bonbons o.Ä. zur "Belohnung" (nur mit Zustimmung der Eltern)
 * Telefonbuch, Papierstapel o.Ä. auf dem Stuhl, damit die Kinder bequem sitzen können
 
-Wenn Sie wollen, schreiben Sie gern Ihre Wahlbezirksnummer an `kinderwahl <ätt> svenkoehler <punkt> de`. Zur Wahl werde ich eine Übersicht der teilnehmen Wahllokale auf [kinderwahl.de](https://kinderwahl.de) einrichten.
+Wir empfehlen 50 Stimmzettel pro Wahllokal und 30-40 Flyer mit den Wahlprogrammen (da auch diese gern mitgenommen werden).
 
-Die Ergebnisse sollen datensparsam verkündet werden (**bitte keine Kontaktdaten sammeln!**). Eine Ergebniswebseite befindet sich im Aufbau unter [kinderwahl.de](https://kinderwahl.de). Schreiben Sie Ihr Ergebnis und den Wahlbezirk bitte an obere E-Mail.
+Wenn Sie wollen, schreiben Sie gern Ihre Wahlbezirksnummer an `kinderwahl <ätt> svenkoehler <punkt> de` um auf der Übersichtskarte auf [kinderwahl.de](https://kinderwahl.de) aufgenommen zu werden.
+
+Die Ergebnisse sollen datensparsam verkündet werden (**bitte keine Kontaktdaten sammeln!**), gern über obere Webseite. Schreiben Sie Ihr Ergebnis und den Wahlbezirk bitte an obere E-Mail.
 Sie können in Absprache mit den Verantwortlichen (Hausmeister o.Ä.) im Wahllokal auch unseren [`Ergebniszettel.pdf`](Ergebniszettel.pdf) aufhängen.
 
 
@@ -45,7 +47,9 @@ Sie können in Absprache mit den Verantwortlichen (Hausmeister o.Ä.) im Wahllok
 
 Die Kinder bekamen zuerst einen [Flyer](Flyer.pdf) mit den *Wahlprogrammen* (während dieser Zeit konnte meist ein Elternteil schon wählen). Anschließend wurde die Kabine auf einen Tisch im Flur gestellt um die Wichtigkeit des Wahlgeheimis zu erklären.
 
-Nach Stimmabgabe und Einwurf in die Urne, durften die Kinde aus einer Bonbonschüssel wählen.
+Nach Stimmabgabe und Einwurf in die Urne, durften die Kinder aus einer Bonbonschüssel wählen.
+
+Es nahmen 50 bis 60 Kinder in jedem Wahllokal teil.
 
 Aus einer E-Mail eines Elternteils:
 
@@ -62,11 +66,17 @@ Aus einer E-Mail eines Elternteils:
 
 Antwort: Nein, die Aktion wird komplett von ehremamtlichen Wahlvorständen (vulgo: Wahlhelferinnen und Wahlhelfern) organisiert.
 
-
 #### Frage: Kann ich Materialgeld, z.B. zum Drucken, haben?
 
 Antwort: Leider nein. Wir erhalten keine Förderung für dieses Projekt. Wie auch oft Kekse und Blumen in Wahllokalen, sind das alles ehrenamtliche Beiträge der Wahlvorstände.
 
+#### Frage: Wo finde ich die Ergebnisse?
+
+Antwort: Die Ergebnisse werden in den Tagen nach der Wahl auf [kinderwahl.de](https://kinderwahl.de) veröffentlicht.
+
+#### Frage: Ich war in einem Wahllokal, das nicht in der Liste steht.
+
+Antwort: Wir haben ein paar Stimmzettel unter den Wahlvorständen geteilt. Im Zweifel kurz eine E-Mail, wenn möglich mit einem Kontakt ins Wahlbüro, sodass wir die Ergebnisse einbinden können.
 
 #### Frage: Wer hat diese unglaublich süßen Tiere gemalt?
 
