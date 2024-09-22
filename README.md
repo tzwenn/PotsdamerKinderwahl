@@ -2,9 +2,9 @@
 
 Begleitend zur Landtagswahl in Brandenburg Kindern die Möglichkeiten der Mitbestimmung zeigen.
 
-![Titelbild zur Kinderwahl in Potsdam mit fünf Tieren](banner.png)
+Karte der Wahllokale und Ergebnisse auf [kinderwahl.de](https://kinderwahl.de).
 
-Karte der Wahllokale auf [kinderwahl.de](https://kinderwahl.de).
+![Titelbild zur Kinderwahl in Potsdam mit fünf Tieren](banner.png)
 
 ## Worum geht es?
 
