@@ -17,7 +17,7 @@ Anstatt politischer Parteien kandidieren Tiere mit ihren Vorstellungen und Progr
 Sie brauchen:
 
 * Ausgedruckte A4 **Stimmzettel**: [Farbe](Stimmzettel.pdf) oder [Graustufen](Stimmzettel_SW.pdf)
-* Ausgedruckte A4 **Flyer** mit den Wahlprogrammen: [Farbe](Flyer.pdf) oder [Graustufen](Flyer_SW.pdf)
+* Ausgedruckte A4 **Flyer** mit den Wahlprogrammen: [Farbe](Flyer.pdf) oder [farbreduziert](Flyer_keinHG.pdf) oder [Graustufen](Flyer_SW.pdf) 
 * Eine **Wahlurne**: Z.B. Schuhkarton oder alte Holzkiste, mit Schlitz im Deckel. 
     * Möglichst keine Produktmarken auf dem Karton zu erkennen
     * Optional: Dekoration [`Schild.pdf`](Schild.pdf)
@@ -32,10 +32,9 @@ Optional:
 * Telefonbuch, Papierstapel o.Ä. auf dem Stuhl, damit die Kinder bequem sitzen können
 
 Wir empfehlen 50 Stimmzettel pro Wahllokal und 30-40 Flyer mit den Wahlprogrammen (da auch diese gern mitgenommen werden).
+Wenn Sie wollen, schreiben Sie gern Ihre Wahlbezirksnummer an `info <ätt> kinderwahl <punkt> de`, dann werden Sie auf der Karte der teilnehmen Wahllokale auf [kinderwahl.de](https://kinderwahl.de) eingetragen.
 
-Wenn Sie wollen, schreiben Sie gern Ihre Wahlbezirksnummer an `kinderwahl <ätt> svenkoehler <punkt> de` um auf der Übersichtskarte auf [kinderwahl.de](https://kinderwahl.de) aufgenommen zu werden.
-
-Die Ergebnisse sollen datensparsam verkündet werden (**bitte keine Kontaktdaten sammeln!**), gern über obere Webseite. Schreiben Sie Ihr Ergebnis und den Wahlbezirk bitte an obere E-Mail.
+Die Ergebnisse sollen datensparsam verkündet werden (**bitte keine Kontaktdaten sammeln!**). Eine Ergebniswebseite befindet sich unter [kinderwahl.de](https://kinderwahl.de). Schreiben Sie Ihr Ergebnis und den Wahlbezirk bitte an obere E-Mail.
 Sie können in Absprache mit den Verantwortlichen (Hausmeister o.Ä.) im Wahllokal auch unseren [`Ergebniszettel.pdf`](Ergebniszettel.pdf) aufhängen.
 
 
@@ -89,4 +88,4 @@ Antwort: Sehr gern. Die Quelldateien finden sich im Ordner [`vorlagen`](vorlagen
 
 #### Weitere Fragen?
 
-Schreiben an: `kinderwahl <ätt> svenkoehler <punkt> de`.
+Schreiben an: `info <ätt> kinderwahl <punkt> de`.
