@@ -24,15 +24,15 @@ Sie brauchen:
 * Eine **extra Wahlkabine**, möglichst räumlich getrennt von den anderen Kabinen
     * Sie sollte klar mit **Kinderwahl** markiert sein, z.B. [`Schild.pdf`](Schild.pdf) kann angeklebt werden.
     * Es reicht ein aufgeschnittener großer Pappkarton (s. Bild unten)
-    * In manchen Wahllokalen werden Zusatzkabinen geliefert. Wenn es die Kapazitäten zulassen, können die verwendet werden. Achten Sie auf räumliche Trennung
+    * In manchen Wahllokalen werden Zusatzkabinen geliefert. Wenn es die Kapazitäten zulassen, können die verwendet werden. Achten Sie auf räumliche Trennung.
 
 Optional:
 
 * Kekse, Bonbons o.Ä. zur "Belohnung" (nur mit Zustimmung der Eltern)
 * Telefonbuch, Papierstapel o.Ä. auf dem Stuhl, damit die Kinder bequem sitzen können
 
-Wir empfehlen 50 Stimmzettel pro Wahllokal und 30-40 Flyer mit den Wahlprogrammen (da auch diese gern mitgenommen werden).
-Wenn Sie wollen, schreiben Sie gern Ihre Wahlbezirksnummer an `info <ätt> kinderwahl <punkt> de`, dann werden Sie auf der Karte der teilnehmen Wahllokale auf [kinderwahl.de](https://kinderwahl.de) eingetragen.
+Wir empfehlen 50 Stimmzettel pro Wahllokal und 20-30 Flyer mit den Wahlprogrammen (da auch diese gern mitgenommen werden).
+Schreiben Sie gern Ihre Wahlbezirksnummer an `info <ätt> kinderwahl <punkt> de`, dann werden Sie auf der Karte der teilnehmen Wahllokale auf [kinderwahl.de](https://kinderwahl.de) eingetragen.
 
 Die Ergebnisse sollen datensparsam verkündet werden (**bitte keine Kontaktdaten sammeln!**). Eine Ergebniswebseite befindet sich unter [kinderwahl.de](https://kinderwahl.de). Schreiben Sie Ihr Ergebnis und den Wahlbezirk bitte an obere E-Mail.
 Sie können in Absprache mit den Verantwortlichen (Hausmeister o.Ä.) im Wahllokal auch unseren [`Ergebniszettel.pdf`](Ergebniszettel.pdf) aufhängen.
