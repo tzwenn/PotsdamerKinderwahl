@@ -17,7 +17,8 @@ Anstatt politischer Parteien kandidieren Tiere mit ihren Vorstellungen und Progr
 Sie brauchen:
 
 * Ausgedruckte A4 **Stimmzettel**: [Farbe](Stimmzettel.pdf) oder [Graustufen](Stimmzettel_SW.pdf)
-* Ausgedruckte A4 **Flyer** mit den Wahlprogrammen: [Farbe](Flyer.pdf) oder [farbreduziert](Flyer_keinHG.pdf) oder [Graustufen](Flyer_SW.pdf) 
+* Ausgedruckte A4 **Flyer** mit den Wahlprogrammen: [Farbe](Flyer.pdf) oder [farbreduziert](Flyer_keinHG.pdf) oder [Graustufen](Flyer_SW.pdf)
+* Optional: A5 **Flyer** mit einfacheren Wahlprogrammen für Leseanfänger: [Farbreduziert](einfache_texte_a5/Flyer_einfach_a5.pdf) oder [Graustufen](einfache_texte_a5/Flyer_einfach_SW_a5.pdf)
 * Eine **Wahlurne**: Z.B. Schuhkarton oder alte Holzkiste, mit Schlitz im Deckel. 
     * Möglichst keine Produktmarken auf dem Karton zu erkennen
     * Optional: Dekoration [`Schild.pdf`](Schild.pdf)
